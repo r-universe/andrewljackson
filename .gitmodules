@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "SIBER"]
 	path = SIBER
-	url = https://github.com/cran/SIBER
+	url = https://github.com/andrewljackson/siber
